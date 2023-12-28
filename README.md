@@ -17,6 +17,8 @@ To train and evaluate the APARN model, run:
 
 `./APARN/run.sh`
 
+If having trouble downloading *.pt with git-lfs, you can use the following link instead: [Tsinghua Cloud](https://cloud.tsinghua.edu.cn/f/79874f22fcb04b6b9842/?dl=1)
+
 ## Credits
 
 The code and datasets in this repository are based on [DualGCN](https://github.com/CCChenhao997/DualGCN-ABSA) and [Alphafold2-Pytorch](https://github.com/lucidrains/alphafold2).
